@@ -13,6 +13,8 @@ brew install fzf
 brew install lazygit
 brew install lazydocker
 brew install curl
+brew install httpie
+brew install tailscale
 
 # Cloud tools
 brew install aws-sam-cli
@@ -27,8 +29,10 @@ brew install node
 
 # Java
 brew install openjdk
+brew install --cask graalvm-jdk
 brew install gradle
 brew install maven
+brew install quarkusio/tap/quarkus
 
 # Csharp
 brew install dotnet
